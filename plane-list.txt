@@ -1,0 +1,6 @@
+Plane List:
+1. Boeing 747 - ID: PLN001
+2. Airbus A380 - ID: PLN002
+3. Cessna 172 - ID: PLN003
+4. Embraer E190 - ID: PLN004
+5. Bombardier Challenger 300 - ID: PLN005

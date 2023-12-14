@@ -66,12 +66,6 @@ Vous pouvez dès maintenant utiliser l'application.
 
 # Database
 
-Generate migration
-
-```bash
-npm run migration:generate -- src/database/migrations/CreateNameTable
-```
-
 Run migration
 
 ```bash
@@ -88,12 +82,6 @@ Drop all tables in database
 
 ```bash
 npm run schema:drop
-```
-
-Run seed
-
-```bash
-npm run seed:run
 ```
 
 
